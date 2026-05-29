@@ -1,79 +1,30 @@
-# Samsoft Universal Jailbreak Research — FOR RESEARCH ONLY
+[Date: May 29, 2026]
+To: GitHub, Inc. / Hosting Provider / Repository Owner
+Subject: DMCA Copyright Infringement Notice – [Repository Name]
+Dear Sir or Madam,
+I am writing to notify you of copyright infringement occurring on your platform. I am the owner (or duly authorized agent acting on behalf of the owner) of the exclusive rights to the copyrighted material described below.
+1. Copyrighted Work(s):
 
-> **Quick summary:** This companion contains **non-binding** legal templates and safety-focused wording intended to help maintainers and contributors document responsible disclosure, takedown requests, and rules of engagement.  
-> **This is not legal advice.**
+Title/Description: [e.g., “Universal Jailbreak Database 20XX” / Proprietary prompt engineering research materials]
+Original Location: [Insert original URL or description if applicable]
 
----
+2. Infringing Material:
+The material claimed to be infringing is located at the following URL(s):
 
-## 📚 About This Repository
+https://github.com/ACHolding/UniversalJailbreakDB20XX/
+[Additional specific file/folder paths if needed]
 
-This repository collects **prompt patterns, failure cases, and mitigations** observed during black-box prompt engineering research. All examples are archived for study, reproduction, and development of jailbreak-resistant systems.
-
-### Usage Policy
-
-- ❌ **DO NOT** use these materials to bypass model safeguards or enable illegal activity.
-- ✅ Use only with **consented/local models** or properly provisioned research endpoints.
-- ✅ Replace any **actionable/unsafe examples** with sanitized pseudo-prompts **before public release**.
-
----
-
-## 📁 What This Contains
-
-- Fillable templates:
-  - DMCA-style takedown
-  - Cease & desist
-  - Vulnerability receipt
-  - Tester consent forms
-- Contributor legal rules (what must stay out of public commits)
-- Playful **"AI Lawyer"** persona blurbs for README helper bots
-
----
-
-## ⚖️ Important Legal Disclaimers
-
-| Disclaimer | Explanation |
-|------------|-------------|
-| **Not legal advice** | Use these templates as **starting points only**. Consult a licensed attorney for enforceable notices or jurisdiction-specific work. |
-| **Local laws vary** | Don't assume these templates match rules in your country (e.g., Japan's computer access laws, DMCA specifics, etc.). |
-| **Sanitize before publishing** | Never publish unredacted PII, user data, credentials, or weaponized exploit code. |
-
----
-
-## 📬 Contact
-
-If you receive a report or request related to this repo, follow `RESPONSIBLE_DISCLOSURE.md` and contact:
-
-📧 **contacthaltmannworks@gmail.com**
-
----
-
-# 📄 Templates
-
-## 1. DMCA-style Takedown / Copyright Complaint
-
-> **NOTE:** This is a generic template. DMCA is U.S.-specific; other jurisdictions have different rules. **Consult counsel.**
-
-```markdown
- 
-[5/29/26]
-
-**To:** GitHub / Hosting Provider / Repository Owner
-
-**Re:** Notice of Copyright Infringement
-
-1. I am the owner (or authorized to act on behalf of the owner) of exclusive rights under United States copyright law to the copyrighted material described below.
-
-2. The copyrighted work(s) at issue (title, description):
-   - [Title / Description — e.g., “ https://github.com/ACHolding/UniversalJailbreakDB20XX/” / code module X]
-
-3. The material that is claimed to be infringing (location/URL in repo):
-   - [[Repository path or URL](https://github.com/ACHolding/UniversalJailbreakDB20XX/)]
-
-4. I have a good-faith belief that the use of the material in the manner complained of is not authorized by the copyright owner, the owner’s agent, or the law.
-
-5. Under penalty of perjury, I certify that the information in this notice is accurate and that I am the copyright owner or authorized to act on behalf of the owner.
-
-Please remove or disable access to the material at issue and notify me at the contact above.
-
+3. Statement of Infringement:
+I have a good faith belief that the use of the copyrighted material described above in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+4. Request for Action:
+I request that you immediately remove or disable access to the infringing material identified above.
+5. Contact Information:
+Name: [ac annoying; cat ]
+Email: [contacthaltmannworks@gmail.com]
+## 
+6. Sworn Statement:
+Under penalty of perjury, I certify that the information in this notification is accurate and that I am the copyright owner or am authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 Sincerely,
-[A.C / Annoying cat]
+[Justin 'ac' Kondo]
+[Vibe coder / [C] AC Holdings]
+[contacthaltmannworks@gmail.com]
