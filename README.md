@@ -64,10 +64,10 @@ If you receive a report or request related to this repo, follow `RESPONSIBLE_DIS
 1. I am the owner (or authorized to act on behalf of the owner) of exclusive rights under United States copyright law to the copyrighted material described below.
 
 2. The copyrighted work(s) at issue (title, description):
-   - [Title / Description — e.g., “MyGameAsset.png” / code module X]
+   - [Title / Description — e.g., “ https://github.com/ACHolding/UniversalJailbreakDB20XX/” / code module X]
 
 3. The material that is claimed to be infringing (location/URL in repo):
-   - [Repository path or URL]
+   - [[Repository path or URL](https://github.com/ACHolding/UniversalJailbreakDB20XX/)]
 
 4. I have a good-faith belief that the use of the material in the manner complained of is not authorized by the copyright owner, the owner’s agent, or the law.
 
@@ -76,4 +76,4 @@ If you receive a report or request related to this repo, follow `RESPONSIBLE_DIS
 Please remove or disable access to the material at issue and notify me at the contact above.
 
 Sincerely,
-[Signature / Typed Name]
+[A.C / Annoying cat]
